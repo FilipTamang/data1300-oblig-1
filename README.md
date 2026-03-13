@@ -21,6 +21,7 @@ command: cd FilipTamang-oblig-1
 2. *Create a virtual environment*
 
 creating the virtual environment
+
 command: python -m venv venv
 
 3. *Activate the virtual environment* 
